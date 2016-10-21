@@ -1,0 +1,9 @@
+body {
+	background-color: green;
+}
+
+.card-space {
+	width: 30px;
+	height: 50px;
+	border: 1px solid black;
+}
